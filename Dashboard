@@ -1,0 +1,66 @@
+HR Data Analysis & Visualization
+
+Project Overview
+
+Interactive Power BI dashboard analyzing HR data, providing insights into employee demographics, headcount trends, attrition rates, and business unit performance.
+
+Key Features
+
+- Employee headcount and attrition trends
+- Gender-wise and age-wise distribution
+- Headcount by business unit, country, and designation
+- Interactive filters for business unit, country, and date
+- Summary page with overview, data source, refresh, and contact information
+
+Technical Specifications
+
+- Built with: Power BI, Excel
+- Data Visualization: Multiple charts and tables
+- Data Analysis: Data modeling, DAX formulas
+- Data Refresh: Automated data refresh functionality
+
+Achievements
+
+- Enhanced HR data insights for informed decision-making
+- Improved employee demographics and trends analysis
+- Developed scalable and interactive dashboard
+
+Screenshots
+
+[Insert screenshots of dashboard visuals]
+
+Code Snippets
+
+[Insert relevant Power BI DAX formulas or Excel data transformation code]
+
+Skills Demonstrated
+
+- Data Visualization
+- Data Analysis
+- Data Modeling
+- Business Intelligence
+- Dashboard Design
+
+Tools Used
+
+- Power BI
+- Excel
+
+Repository Structure
+
+- data: Excel data files
+- dashboard: Power BI dashboard file (.pbix)
+- screenshots: Dashboard visual screenshots
+- (link unavailable): Project overview and documentation
+
+License
+
+[Insert license information, if applicable]
+
+
+Commit Messages
+
+- Initial commit: HR Data Analysis & Visualization Dashboard
+- Added interactive filters for business unit, country, and date
+- Implemented data refresh functionality
+- Created Measures for gender-wise count and percentage
